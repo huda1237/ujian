@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ujian</string>
+
+    <string name="halo">Halo,\n Huda</string>
+    <string name="seting">Setting</string>
+    <string name="filenotexis">file does not exist</string>
+    <string name="vidoplaying">video is playing</string>
+    <string name="search_film">Cari Film Apa?</string>
+</resources>
